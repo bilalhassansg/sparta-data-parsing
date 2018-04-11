@@ -115,4 +115,4 @@ ideal_zoo = {animals: {
 # to access these keys you can chain them together like below: -
 
 # uncomment the below code and print
-p ideal_zoo[:animals][:insects]
+# p ideal_zoo[:animals][:insects]
