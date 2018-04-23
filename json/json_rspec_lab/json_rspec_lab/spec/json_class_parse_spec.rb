@@ -23,7 +23,7 @@ describe 'Testing the exchange rates' do
   end
 
 
-  it "should countain 31 rates" do
+  it "should countain 32 rates" do
     # expect(@exchange_rates.json_file['rates'].count).to eq 31
 
     # This also works and is more specific

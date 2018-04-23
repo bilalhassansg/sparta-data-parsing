@@ -24,7 +24,7 @@ class ParseJson
   end
 
   def no_of_rate_values
-    @json_file['rates'].keys.count
+    @json_file['rates'].values.count
   end
 
   def get_rates
